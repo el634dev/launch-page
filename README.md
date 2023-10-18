@@ -1,6 +1,6 @@
 # Launch Page
 > Created a launch page for practice with core Boostrap 
-> Live demo [_here_](https://pokemon-store-eight.vercel.app/learn.html). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://el634dev.github.io/launch-page/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
