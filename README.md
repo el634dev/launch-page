@@ -1,6 +1,6 @@
 # Launch Page
 > Created a launch page for practice with core Boostrap 
-> Live demo [_here_](https://el634dev.github.io/launch-page/). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo is in the About Section
 
 ## Table of Contents
 * [General Info](#general-information)
